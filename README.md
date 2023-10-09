@@ -16,7 +16,43 @@
 
 - 📫 How to reach me **javedmughal609@gmail.com**
 
-- 📄 Know about my experiences [Software Engineer with 2 years of experience in developing mobile applications using flutter framework. I have collaborated with dedicated and experienced team members, successfully completing 4 major projects, and have independently executed over 7 smaller projects. Skilled in building mobile app from scratch and convert Figma design to code. Proficient in building crossplatform, feature-rich applications with a keen eye for UI/UX design. My proficiency in Dart programming enables me to seamlessly integrate cutting-edge features, including RESTful API integration, Firebase services, and third-party packages. Dedicated to delivering high-quality, highperformance apps and continuously staying updated with the latest trends in Flutter development.](Software Engineer with 2 years of experience in developing mobile applications using flutter framework. I have collaborated with dedicated and experienced team members, successfully completing 4 major projects, and have independently executed over 7 smaller projects. Skilled in building mobile app from scratch and convert Figma design to code. Proficient in building crossplatform, feature-rich applications with a keen eye for UI/UX design. My proficiency in Dart programming enables me to seamlessly integrate cutting-edge features, including RESTful API integration, Firebase services, and third-party packages. Dedicated to delivering high-quality, highperformance apps and continuously staying updated with the latest trends in Flutter development.)
+<h3><a id="user-content--a-little-more-about-me" class="anchor" aria-hidden="true" href="#-a-little-more-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"><img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%;" width="50"></a> A little more about me...</h3>
+    <div class="snippet-clipboard-content position-relative"><pre><code>const javed = {
+        pronouns: "He" | "Him",
+        code: ["Dart","Flutter"],
+        askMeAbout: ["Flutter", "Dart", "App Dev", "Firebase", "SQLite", "Hive"],
+        skillHighlights : [
+          "Project management",
+          "Version control (GIT)",
+          "Strong decision maker",
+          "Creative design",
+          "MVC Design Pattern",
+          "Debugging",
+          "Service-focused",
+          "Database Design"
+        ]
+        technologies: {
+            databases: {
+                SQL:   ["Oracle","SQLite", "MySQL"],
+                NoSQL: ["Firebase", "MongoDB"],
+            },
+            frontEnd: {
+                Framework: ["Flutter"]
+            },
+            api: ["PHP"],
+            other: ["hive", "shared preference"],
+            technologies: ["Local Auth", "Google Map", "Getx", "Provider"]
+        },
+        architecture: ["MVC", "Single page applications"],
+        currentFocus: "Full stack developer",
+        funFact: "There are two ways to write error-free programs; only the third one works"
+};
+</code></pre>
+    </div>
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
