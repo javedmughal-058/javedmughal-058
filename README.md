@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [LEEDS FMS App](https://play.google.com/store/apps/details?id=com.leedsfms.leeds_app)
 
-- 🌱 I’m currently learning **Bloc State Management**
+- 🌱 I’m currently learning **Bloc State Management, Clean Architecture, Agile Methology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/javedmughal-058](https://github.com/javedmughal-058)
 
@@ -52,8 +52,42 @@
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" style="max-width:100%;" width="60"></a> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji></em></p>
 <hr>
+<p><g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <strong>I'm Most Productive on Sunday</strong></p>
+    <div class="snippet-clipboard-content position-relative"><pre lang="text"><code>Monday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.74%
+Tuesday      40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.15%
+Wednesday    64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.85%
+Thursday     66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.31%
+Friday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69%
+Saturday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   07.99%
+Sunday       105 commits    ███████████████░░░░░░░░░░   42.01%
+
+</code></pre></div>
 
 
+ <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
+
+<div class="snippet-clipboard-content position-relative"><pre lang="text"><code>⌚︎ Time Zone: Asia/karachi
+
+💬 Programming Languages:
+Dart                     2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.74%
+Flutter                  4 hr 50 mins        ██████████████████████░░░   90.47%
+
+🔥 Editors:
+Android Studio           4 hrs 18 mins       ████████████████░░░░░░░░░   70.43%
+Visual Studio            51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
+Notepad                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
+
+💻 Operating System:
+Windows                  16 hrs 41 mins      █████████████████████████   100.0%
+
+
+</code></pre>
+        <p><strong>I Mostly Code in Flutter</strong></p>
+        <div class="snippet-clipboard-content position-relative"><pre lang="text">
+                <code>
+Flutter                  17 repos            ████████████░░░░░░░░░░░░░   49.43%
+Dart                      12 repos           ███████░░░░░░░░░░░░░░░░░░   30.61%
+</code></pre></div></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
