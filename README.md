@@ -39,9 +39,9 @@
             frontEnd: {
                 Framework: ["Flutter"]
             },
-            api: ["PHP"],
-            other: ["hive", "shared preference"],
-            technologies: ["Local Auth", "Google Map", "Getx", "Provider"]
+            api: ["PHP","Node.js"],
+            other: ["hive", "shared preference", "Flutter Secure Storage", "Encryption", "Local Auth", "Google Map"],
+            stateManagement: ["Getx", "Provider"]
         },
         architecture: ["MVC", "Single page applications"],
         currentFocus: "Full stack developer",
