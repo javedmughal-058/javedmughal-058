@@ -105,3 +105,14 @@ Dart                      12 repos           ███████░░░░�
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javedmughal-058&show_icons=true&locale=en" alt="javedmughal-058" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javedmughal-058&" alt="javedmughal-058" /></p>
+
+
+![Admin_Thumbnail](https://github.com/javedmughal-058/javedmughal-058/assets/91019922/e475c24a-b139-426d-88ee-f0e85410c81d)
+
+![usg_smart_office](https://github.com/javedmughal-058/javedmughal-058/assets/91019922/f5c41ba8-7384-44fd-a58e-43cb0ce4d712)
+
+![Admin_Thumbnail_2](https://github.com/javedmughal-058/javedmughal-058/assets/91019922/0f34a432-a7d3-4d15-b344-41a2436c35ab)
+
+![Feature_Thumbnail_1](https://github.com/javedmughal-058/javedmughal-058/assets/91019922/babb679a-3635-4cec-8ef1-5bedc9c54866)
+
+
