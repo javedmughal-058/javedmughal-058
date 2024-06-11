@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javedmughal-058&label=Profile%20views&color=0e75b6&style=flat" alt="javedmughal-058" /> </p>
 
-- 🔭 I’m currently working on [LEEDS FMS App](https://play.google.com/store/apps/details?id=com.leedsfms.leeds_app)
+- 🔭 I’m currently working on [USG Smart Office App](https://play.google.com/store/apps/details?id=com.usapparelandtextiles.us_app)
 
 - 🌱 I’m currently learning **Bloc State Management, Clean Architecture, Agile Methology**
 
