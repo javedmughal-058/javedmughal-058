@@ -107,7 +107,7 @@ Dart                      12 repos           ███████░░░░�
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javedmughal-058&" alt="javedmughal-058" /></p>
 
 
-![Admin_Thumbnail](https://github.com/javedmughal-058/javedmughal-058/assets/91019922/e475c24a-b139-426d-88ee-f0e85410c81d)
+![feature](https://github.com/javedmughal-058/javedmughal-058/assets/91019922/400e0ef9-f539-4271-ac44-f45337fde5fe)
 
 ![Thumbnail](https://github.com/javedmughal-058/javedmughal-058/assets/91019922/001d39e1-0fad-4d20-9067-91803c3f8c67)
 
